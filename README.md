@@ -1,3 +1,4 @@
+```C
 #include <SPI.h>
 #include <SD.h>
 
@@ -83,7 +84,7 @@ void loop()
 
   // Wait a bit before taking the next measurement
   delay(500);
-
+```
 ![image](https://github.com/JeewanRai/Arduino-Programming-/assets/137490711/ed7646ce-5c28-4f73-9727-52812e50f4b7)
 
 Output:
